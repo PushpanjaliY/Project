@@ -11,4 +11,4 @@ Open browser, then type  localhost/phpmyadmin/ to access database for the projec
 
 To create the website, Create a new folder in the desktop and write all the codes needed in it. Then type in the brower localhost/folder_name.
 
-Index name of the website for our project: NITC Guest House.
+Home page of the website for our project (name): NITC Guest House.
